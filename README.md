@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Jackson Blomquist and I am a second-year undergraduate student at Oregon State University studying Mathematics and Data Science. I am interested in using my mathematical and statistical knowledge in order to solve problems with data. More specifically, my primary career interest is to become an Actuary.
 
 <!--
 **JacksonBl-8/JacksonBl-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
